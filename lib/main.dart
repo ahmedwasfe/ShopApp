@@ -91,7 +91,7 @@ class MyApp extends StatelessWidget {
             themeMode: cubit.isDark ? ThemeMode.dark : ThemeMode.light,
             theme: lightTheme(),
             //  darkTheme: darkTheme(),
-            home: SocialLoginScreen()/*startApp()*/,
+            home: startApp(),
           );
         },
       ),
