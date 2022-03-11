@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "652753815135",
+    "project_id": "flutter-social-app-4b1a3",
+    "storage_bucket": "flutter-social-app-4b1a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652753815135:android:d1f1b3885d08a7817c3dea",
+        "android_client_info": {
+          "package_name": "com.example.bmi_calculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "652753815135-ihbqltvfn7bpk4c31vfkhqh0mvcph6gl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bmi_calculator",
+            "certificate_hash": "bb2c6f0526db7c16ab567a02223cc783fac23c74"
+          }
+        },
+        {
+          "client_id": "652753815135-bns6lobe5af2os0tg522afofuirj2nqt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8lcxAHYMrGuUx6XHzoTi24Lb9nU3VQoM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "652753815135-bns6lobe5af2os0tg522afofuirj2nqt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
